@@ -1,0 +1,17 @@
+{
+  "id": "prompt-vault",
+  "name": "Prompt Vault",
+  "description": "Save, tag, search, and reuse AI prompt snippets with one click",
+  "version": "1.0.0",
+  "author": "Boutabyte",
+  "url": "https://github.com/dalwaut/prompt-vault-widget",
+  "entry": "prompt-vault-widget.py",
+  "icon": "icon.png",
+  "category": "AI Tools",
+  "requires": ["python3-gi", "python3-gi-cairo"],
+  "theme": {
+    "bg": "#141e1a",
+    "accent": "#58c38b",
+    "text": "#d8e8e0"
+  }
+}
